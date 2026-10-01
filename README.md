@@ -1,2 +1,2 @@
 # Demo project for GitHub
-for learning version controls
+for learning version controls.
